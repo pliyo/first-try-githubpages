@@ -3,7 +3,7 @@
 
 # Setup
 title:               Pliyo's Spaceship
-tagline:             'In the pursuit of the summer'
+tagline:             'Itn the pursuit of the summer'
 description:         'A new era has begun'
 baseurl:             ''
 paginate:            2
@@ -11,3 +11,5 @@ paginate_path:       "/blog/page:num/"
 
 # Custom vars
 version:             1.0.0
+
+JEKYLL_ENV=production jekyll build

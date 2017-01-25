@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LOVE
+title: A new beginning
 summary: "Whatever happens here goes here"
 ---
 
