@@ -4,4 +4,4 @@ title: LOVE
 summary: "Whatever happens here goes here"
 ---
 
-A new beginning
+A new beginning :rocket:
