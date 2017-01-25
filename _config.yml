@@ -2,10 +2,9 @@
 #
 
 # Setup
-title:               Kaizen
-tagline:             'A story by Pliyo in the outter space'
+title:               Pliyo's Spaceship
+tagline:             'In the pursuit of the summer'
 description:         'A new era has begun'
-url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            2
 paginate_path:       "/blog/page:num/"
