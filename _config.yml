@@ -11,4 +11,3 @@ paginate_path:       "/blog/page:num/"
 
 # Custom vars
 version:             1.0.0
-environment:         production
