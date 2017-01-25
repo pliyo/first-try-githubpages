@@ -23,3 +23,12 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+<div>
+
+{% if page.previous %}
+  <a rel="prev" href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a
+{% endif %}
+    {% if page.next %}
+    <a rel="next" href="{{ page.next.url }}">&larr; {{ page.next.title }}</a
+    {% endif %}
+</div>
