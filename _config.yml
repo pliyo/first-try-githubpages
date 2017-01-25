@@ -11,5 +11,4 @@ paginate_path:       "/blog/page:num/"
 
 # Custom vars
 version:             1.0.0
-
-JEKYLL_ENV=production jekyll build
+environment:         production
