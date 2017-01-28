@@ -13,6 +13,7 @@ paginate_path:       "/blog/page:num/"
 version:             1.0.0
 github.repo:         https://github.com/pliyosenpai
 twitter:             https://twitter.com/PliyoSan
+instagram:           https://www.instagram.com/pliyosan/
 
 gems:
   - jemoji
