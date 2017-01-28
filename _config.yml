@@ -11,7 +11,7 @@ paginate_path:       "/blog/page:num/"
 
 # Custom vars
 version:             1.0.0
-github.repo:         https://github.com/pliyosenpai
+github:              https://github.com/pliyosenpai
 twitter:             https://twitter.com/PliyoSan
 instagram:           https://www.instagram.com/pliyosan/
 
