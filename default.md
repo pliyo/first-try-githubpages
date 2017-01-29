@@ -14,6 +14,7 @@ title: Home
   </div>
 {% endfor %}
 
+{% if paginator.posts > 1 %}
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -28,3 +29,5 @@ title: Home
     <span class="next ">Next</span>
   {% endif %}
 </div>
+{% endif %}
+
