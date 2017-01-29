@@ -4,6 +4,5 @@ title: A new beginning
 tag: Entry
 ---
 
-A new beginning 
-
+In the pursuit of the summer.
 ![Snowroad](/images/pliyosan/snowroad.jpg)
