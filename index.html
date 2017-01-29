@@ -18,11 +18,13 @@ title: Home
 <div class="pagination">
     <div class="flex flex--center">
         <div class="flex-item text--left">
+          {% if paginator.posts > 1 %}
             {% if paginator.previous_page %}
               <a href="{{ paginator.previous_page_path }}" class="btn btn--primary">Previous</a>
             {% else %}
               <a class="btn btn--primary btn--disabled ">Previous</a>
             {% endif %}
+          {% endif %}
         </div>
 
         <div class="flex-item text--center">
