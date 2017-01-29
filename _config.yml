@@ -6,6 +6,7 @@ title:               Pliyo's Spaceship
 tagline:             'In the pursuit of the summer'
 description:         'A new era has begun'
 baseurl:             ''
+url:                 'pliyosan.com'
 paginate:            2
 paginate_path:       "/blog/page:num/"
 
