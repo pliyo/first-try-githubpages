@@ -4,4 +4,6 @@ title: A new beginning
 tag: Entry
 ---
 
-A new beginning :rocket:
+A new beginning 
+
+![Snowroad](/images/pliyosan/snowroad.jpg)
