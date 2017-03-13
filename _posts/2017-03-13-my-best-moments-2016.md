@@ -77,6 +77,7 @@ tag: Entry
 ![best2016-069](https://dl.dropboxusercontent.com/u/24713287/blog/best2016/Best2016-69.jpg)
 ![best2016-070](https://dl.dropboxusercontent.com/u/24713287/blog/best2016/Best2016-70.jpg)
 ![best2016-071](https://dl.dropboxusercontent.com/u/24713287/blog/best2016/Best2016-71.jpg)
+![best2016-072](https://dl.dropboxusercontent.com/u/24713287/blog/best2016/Best2016-72.jpg)
 ![best2016-073](https://dl.dropboxusercontent.com/u/24713287/blog/best2016/Best2016-73.jpg)
 ![best2016-074](https://dl.dropboxusercontent.com/u/24713287/blog/best2016/Best2016-74.jpg)
 ![best2016-075](https://dl.dropboxusercontent.com/u/24713287/blog/best2016/Best2016-75.jpg)
