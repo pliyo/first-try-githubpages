@@ -6,10 +6,12 @@ tag: Entry
 
 
 
-[Software Engineering:](https://medium.com/@pliyosan)
+1. [Software Engineering](https://medium.com/@pliyosan)
 
-[Poetry:](http://pliyosenpai.blogspot.co.uk/)
+2. [Poetry](http://pliyosenpai.blogspot.co.uk/)
 
-[Instagram:](https://www.instagram.com/pliyosan/)
+3. [Instagram](https://www.instagram.com/pliyosan/)
 
-[Twitter:](https://twitter.com/PliyoSan)
+4. [Twitter](https://twitter.com/PliyoSan)
+
+5. [Linkedin](https://www.linkedin.com/in/pliyo/)
