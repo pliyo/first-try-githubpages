@@ -4,12 +4,12 @@ title: Where is Pliyo?
 tag: Entry
 ---
 
-Find my technical blog here: 
 
-https://medium.com/@pliyosan
 
-Poetry: http://pliyosenpai.blogspot.co.uk/
+[Software Engineering:](https://medium.com/@pliyosan)
 
-Instagram: https://www.instagram.com/pliyosan/
+[Poetry:](http://pliyosenpai.blogspot.co.uk/)
 
-Twitter: https://twitter.com/PliyoSan
+[Instagram:](https://www.instagram.com/pliyosan/)
+
+[Twitter:](https://twitter.com/PliyoSan)
