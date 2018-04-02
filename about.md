@@ -5,7 +5,7 @@ title: About
 
 This will get updated shortly.
 
-:gb: Previously dwelling at [Pliyo Senpai](http://pliyosenpai.com/)
+:gb: Previously dwelling at [Pliyo Senpai](http://pliyosenpai.blogspot.co.uk/)
 I moved to this new format using [Jekyll](http://jekyllrb.com/)
 instead of [Blogger](https://www.blogger.com/about/?r=1-null_user),
 with the idea to find my voice in English, blogging about
