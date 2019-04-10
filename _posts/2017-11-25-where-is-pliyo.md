@@ -13,5 +13,3 @@ tag: Entry
 3. [Instagram](https://www.instagram.com/pliyosan/)
 
 4. [Twitter](https://twitter.com/PliyoSan)
-
-5. [Linkedin](https://www.linkedin.com/in/pliyo/)
